@@ -79,3 +79,10 @@
     width:calc(100% / 5);
   }
 }
+
+/* Aggiunta personale  */
+@media (max-width:575px) {
+  .clearfix img {
+    max-width:100%;
+  }
+}
